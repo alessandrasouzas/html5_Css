@@ -1,0 +1,38 @@
+#banner{
+    width: 100%; 
+    padding: 5px 0;   
+}
+
+.principal {
+	width: 98%;
+    margin: 10px auto;
+	padding: 10px;
+	box-sizing: border-box;        
+	border: 2px solid gray;
+	border-bottom-width: 6px;
+	border-radius: 10px;	
+}
+
+.principal h1 {
+	text-align: center;		
+	color: black;
+}
+
+.principal h2 {
+	color: #C68E17;
+}
+
+.beneficios ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.itens, p {
+	font-size: 18px;;
+}
+
+#img-beneficios {
+	width: 40%;	
+}
